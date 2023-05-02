@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://BLOG_URL/sitemap.xml
+Host: https://blog_url.com
